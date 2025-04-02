@@ -11,7 +11,7 @@ namespace задание_10
         static void Main(string[] args)
         {
             Console.Write("а)");
-            Console.Write("Введите число A: ");
+            Console.Write("Введите число АПРОВААВ: ");
             double A1 = double.Parse(Console.ReadLine());
             Console.Write("Введите число B: ");
             double B1 = double.Parse(Console.ReadLine());
